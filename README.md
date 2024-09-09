@@ -21,4 +21,4 @@
 # 3. Cooking For my Friends
 개인프로젝트
 
-[Cooking For my Friends 코드](깃허브주소)
+[Cooking For my Friends 코드](https://github.com/hyunchae123/Project2)
