@@ -25,3 +25,4 @@
 
 # Youtube
 [![윈디](http://img.youtube.com/vi/5lLYblX9WyU/0.jpg)](https://youtu.be/5lLYblX9WyU)
+[![Cooking For my Friends](http://img.youtube.com/vi/9pIdL8q7msA/0.jpg)](https://youtu.be/9pIdL8q7msA)
