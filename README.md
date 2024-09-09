@@ -16,7 +16,7 @@
 
 기획 - 1명 / 원화디자이너 - 3명 / 프로그래밍 - 1명
 
-[윈디 코드](깃허브주소)
+[윈디 코드](https://github.com/hyunchae123/TeamProject-1-1)
 
 # 3. Cooking For my Friends
 개인프로젝트
