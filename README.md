@@ -24,5 +24,7 @@
 [Cooking For my Friends 코드](https://github.com/hyunchae123/Project2)
 
 # Youtube
+
+[![Tale's War](http://img.youtube.com/vi/Z6qsAPXw9kE/0.jpg)](https://youtu.be/Z6qsAPXw9kE)
 [![윈디](http://img.youtube.com/vi/5lLYblX9WyU/0.jpg)](https://youtu.be/5lLYblX9WyU)
 [![Cooking For my Friends](http://img.youtube.com/vi/9pIdL8q7msA/0.jpg)](https://youtu.be/9pIdL8q7msA)
