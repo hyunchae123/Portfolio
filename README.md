@@ -31,6 +31,9 @@
 
 # Youtube
 
+### 1. Tale's War 플레이영상
 [![Tale's War](http://img.youtube.com/vi/Z6qsAPXw9kE/0.jpg)](https://youtu.be/Z6qsAPXw9kE)
+### 2. 윈디 플레이영상
 [![윈디](http://img.youtube.com/vi/5lLYblX9WyU/0.jpg)](https://youtu.be/5lLYblX9WyU)
+### 3. Cooking For my Friends 플레이영상
 [![Cooking For my Friends](http://img.youtube.com/vi/9pIdL8q7msA/0.jpg)](https://youtu.be/9pIdL8q7msA)
