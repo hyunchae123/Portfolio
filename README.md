@@ -30,10 +30,6 @@
 카메라 흔들림 : 주인공 캐릭터의 Hp가 일정치 이하로 내려가면 코루틴 함수 실행. 카메라의 현재 위치를 저장하고 Random.insideUnitSphere와 흔들림 범위를 활용하여 카메라의 위치를 랜덤으로 바꿈.  
 
 
-
-
-아군 꼬리 스킬 구현 : 
-
 [A Tale's War 코드](https://github.com/hyunchae123/Tale-s-War)
 
 ### 2. 윈디
